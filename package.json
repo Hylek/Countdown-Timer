@@ -1,0 +1,13 @@
+{
+	"name": "com.danielcumbor.countdown",
+	"version": "1.0.0",
+	"displayName": "Countdown Timer",
+	"description": "A simple countdown that can display a variety of content and durations.",
+	"unity": "2022.3",
+	"unityRelease": "15f1",
+	"author": {
+		"name": "Daniel Cumbor",
+		"email": "dan-dev@proton.me",
+		"url": "https://www.danielcumbor.uk"
+	}
+}
